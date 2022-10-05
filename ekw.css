@@ -1,0 +1,17 @@
+html, body {
+	-padding:2rem;
+	margin:2rem ;
+	width:100vw;
+	height:100vh;
+	overflow:hidden;
+	font-family: lucida console, courier new, courier, monospace;
+	font-weight: 400;
+}
+
+* {
+	font-size: 1.5rem;
+}
+
+select {width:35%}
+input {width:25%}
+#cyfraKontrolna {width:10%}
